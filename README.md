@@ -1,5 +1,5 @@
 ### Hi there 👋
-You can find and look all of my new playground projects here.
+You can find all of my new playground projects here.
 
 
 Some information about me:
